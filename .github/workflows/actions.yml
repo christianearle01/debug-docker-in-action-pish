@@ -1,9 +1,6 @@
 name: Github Actions Debug
 
 on:
-  pull-request:
-    branches: 
-      - develop
   push:
     branches: 
       - develop
